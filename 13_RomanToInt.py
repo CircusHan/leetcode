@@ -9,3 +9,6 @@ class Solution:
             else :
                 sum += roman_d[s[i]]
         return sum
+
+    def test(self):
+        return
