@@ -7,3 +7,6 @@ class Solution:
                 is_palindrome = False
                 break
         return is_palindrome
+
+#s = Solution()
+#print(s.isPalindrome(-1221))
