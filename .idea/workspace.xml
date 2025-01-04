@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8daf39f2-da14-44bb-a7f6-f2af82932d5a" name="Changes" comment="Problem #9 solved.">
-      <change afterPath="$PROJECT_DIR$/1_Twosum.py" afterDir="false" />
+    <list default="true" id="8daf39f2-da14-44bb-a7f6-f2af82932d5a" name="Changes" comment="Problem #1 solved.">
+      <change afterPath="$PROJECT_DIR$/11_containerWithMostWater.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Twosum.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Twosum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,7 @@
       <updated>1735621564131</updated>
       <workItem from="1735621565152" duration="2246000" />
       <workItem from="1735626400118" duration="1428000" />
-      <workItem from="1735794862706" duration="1572000" />
+      <workItem from="1735794862706" duration="5232000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -126,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735795087227</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Problem #1 solved.">
+      <option name="closed" value="true" />
+      <created>1735954292606</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735954292606</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +155,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Problem #9 solved." />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem #9 solved." />
+    <MESSAGE value="Problem #1 solved." />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem #1 solved." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
