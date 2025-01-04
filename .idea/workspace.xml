@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8daf39f2-da14-44bb-a7f6-f2af82932d5a" name="Changes" comment="Problem #9 solved.">
-      <change beforePath="$PROJECT_DIR$/9_palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/9_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Twosum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,7 @@
       <updated>1735621564131</updated>
       <workItem from="1735621565152" duration="2246000" />
       <workItem from="1735626400118" duration="1428000" />
-      <workItem from="1735794862706" duration="219000" />
+      <workItem from="1735794862706" duration="1572000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -117,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735794931208</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Problem #9 solved.">
+      <option name="closed" value="true" />
+      <created>1735795087227</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735795087227</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
