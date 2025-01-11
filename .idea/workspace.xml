@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8daf39f2-da14-44bb-a7f6-f2af82932d5a" name="Changes" comment="Problem #1 solved.">
-      <change afterPath="$PROJECT_DIR$/11_containerWithMostWater.py" afterDir="false" />
+    <list default="true" id="8daf39f2-da14-44bb-a7f6-f2af82932d5a" name="Changes" comment="Problem #11 solved.">
+      <change afterPath="$PROJECT_DIR$/LinkedList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1_Twosum.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Twosum.py" afterDir="false" />
     </list>
@@ -36,6 +36,9 @@
     &quot;accountId&quot;: &quot;6dca4847-88e7-4ea4-84fe-267d1c34b5f8&quot;
   }
 }</component>
+  <component name="LLMProjectSettings">
+    <option name="turned_on" value="false" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -48,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.9_palindrome.executor": "Run",
+    "Python.LinkedList.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -77,7 +81,8 @@
       <updated>1735621564131</updated>
       <workItem from="1735621565152" duration="2246000" />
       <workItem from="1735626400118" duration="1428000" />
-      <workItem from="1735794862706" duration="5232000" />
+      <workItem from="1735794862706" duration="5894000" />
+      <workItem from="1736566866471" duration="801000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -135,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735954292606</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Problem #11 solved.">
+      <option name="closed" value="true" />
+      <created>1735963007924</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735963007924</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +169,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Problem #9 solved." />
     <MESSAGE value="Problem #1 solved." />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem #1 solved." />
+    <MESSAGE value="Problem #11 solved." />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem #11 solved." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -176,5 +190,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$9_palindrome.coverage" NAME="9_palindrome Coverage Results" MODIFIED="1735795065715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$LinkedList.coverage" NAME="LinkedList Coverage Results" MODIFIED="1736567598314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

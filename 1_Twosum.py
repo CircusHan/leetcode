@@ -4,6 +4,6 @@ class Solution:
         for i in range(len(nums)):
             d[nums[i]] = i
         for i in range(len(nums)) :
-            k = target - nums[i]
-            if k in d and d[k] != i :
-                return [i, d[k]]
+            v = target - nums[i]
+            if v in d and d[v] != i :
+                return [i, d[v]]
